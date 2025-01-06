@@ -1,2 +1,14 @@
-
+body {
+	font-family: Arial, sans-serif;
+	margin: 20px;
+	
+}
+.quotation {
+	Max-width:  600px;
+ Margin:  10px;
+ Padding:  15px;
+ border-left: 8px solid  green;
+ background-color:  #f8fffe;
+ Font-weight: bold;
+}
 /* Your CSS Code here. */
